@@ -1,0 +1,4 @@
+tests/test_debug.py
+venv
+.pytest_cache
+__pycache__
